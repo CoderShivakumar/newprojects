@@ -1,0 +1,58 @@
+*
+{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    background-color:antiquewhite;
+    justify-content: center;
+    align-items: center;
+}
+.background-container
+{
+    height:80vh;
+    width:60vw;
+    background-color: red;
+    margin-top: 50px;
+}
+h1
+{
+    text-align: center;
+    color:white;
+    font-size:5vw;
+}
+h2{
+    margin:2vw;
+    font-size: 30px;
+}
+#name
+{
+    font-size:3vw;
+    margin:2vw;
+    margin-top:-5vh;
+}
+h3{
+    font-size:30px;
+    margin:2vw;
+    margin-top: -2vh;
+}
+#selection
+{
+    margin: 2vw;
+    background-color:lightblue;
+    font-size:2vw;
+    border:none;
+    margin-top: -3vh;
+}
+#btn
+{
+    font-size: 2vw;
+    margin-top: -5vh;
+    width:15vw;
+    background-color: orangered;
+    border:none;
+    cursor: pointer;
+}
